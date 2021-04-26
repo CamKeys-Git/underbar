@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "/Users/cameronkeys/tests/seip2104-underbar"
+		}
+	],
+	"settings": {
+		"emmet.showExpandedAbbreviation": "never",
+		"javascript.validate.enable": false
+	}
+}
